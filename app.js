@@ -98,7 +98,7 @@ changPasswd
 changeHostname
 changeTimeZone
 changeApt
-initNetwork
+#initNetwork
 installShh
 installTool
 echo "-----end-----"
